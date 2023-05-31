@@ -39,6 +39,7 @@ class Singular_linked_list:
             self.size += 1
         else:
             return
+
     
 
 
